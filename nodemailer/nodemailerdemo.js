@@ -3,9 +3,9 @@ exports.transporter = nodeMailer.createTransport({
     service: 'hotmail',
     auth:{
         //user(email) the one who sends messages
-        user: "fs_user_node_aubay@hotmail.com",
+        user: "Controlla Notion Node js",
         //password for such user(email)
-        pass: "nodemailerPassword123"
+        pass: "Controlla Notion Node js"
     }
 });
 
